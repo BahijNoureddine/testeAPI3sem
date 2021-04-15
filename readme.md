@@ -52,7 +52,7 @@ Responsável por gerenciar os acessos ao programa, onde será possível recupera
 
 ![](https://user-images.githubusercontent.com/68132461/114926313-94e59b80-9e06-11eb-8a9a-6c10207ded9d.png)
 
-### Deletando Bloco
+### Deletando Bloco:
 ...
 
 ![](https://user-images.githubusercontent.com/68132461/114926346-9fa03080-9e06-11eb-88a3-dcd5f0c65eb2.png)
