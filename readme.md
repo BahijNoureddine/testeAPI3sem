@@ -13,6 +13,8 @@
 - [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 <h1> </h1>
 
+### Pré-Requisitos:
+...
 
 ### Sprint 1
 - Na primeira sprint tivemos como objetivo a apresentação inicial dos Wireframes e Story Cards para aprovação do cliente.
