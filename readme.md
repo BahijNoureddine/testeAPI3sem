@@ -33,7 +33,7 @@ Responsável por gerenciar os acessos ao programa, onde será possível recupera
 
 <br/>
 
-### Seleção de Traços:
+### Selecionando Traços:
 ...
 
 ![](https://user-images.githubusercontent.com/68132461/114924090-f6f0d180-9e03-11eb-95b0-39f0007e047b.png)
