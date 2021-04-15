@@ -32,13 +32,13 @@ Projeto API do 3º Semestre da turma de Banco de Dados FATEC
                             <td>Sprint 1</td>
                             <td>Descrição Sprint1 </td>
                             <td>08/03/2021 a 28/03/2021</td>
-                            <td><p><a href="https://github.com/MaXximiles/API-3SEM/tree/sprint-1">Visualizar</a></p></td>
+                            <td><p><a href="https://github.com/BahijNoureddine/testeAPI3sem/blob/sprint-1/readme.md">Visualizar</a></p></td>
                      </tr>
                      <tr>
                             <td>Sprint 2</td>
                             <td>Descrição Sprint2</td>
                             <td>29/09/2021 a 18/04/2021</td>
-                            <td><p>Em andamento</p></td>
+                            <td><p><a href="https://github.com/BahijNoureddine/testeAPI3sem/blob/sprint-2/readme.md">Visualizar</a></p></td>
                      </tr>
                      <tr>
                             <td>Sprint 3</td>
