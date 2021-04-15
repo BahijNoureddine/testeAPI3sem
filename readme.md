@@ -55,7 +55,7 @@ Projeto API do 3º Semestre da turma de Banco de Dados FATEC
               </tbody>
        </table>
        
-  ## Screenshots:     
+ ## Screenshots:     
        
  ## Pré-Requisitos:
  
