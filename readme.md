@@ -4,6 +4,9 @@
 
 <h1></h1> 
 
+### Problema:
+Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limitações no método vigente. Essas quatro limitações são: o codelist está armazenado e é operado manualmente em planilhas com extensão do tipo .xlsx. Ademais, extrair a composição estabelecida de um traço no documento é complexa e não existem mecanismos que validem ou integrem-os. 
+
 ### Objetivo:
  O Trace Finder tem como objetivo ser uma aplicação que permite manter, customizar e versionar partes de documentos que são armazenados em arquivos PDF, a partir disso, utilizando regras específicas, é possível gerar documentos finais que integrem as partes selecionadas.
 
