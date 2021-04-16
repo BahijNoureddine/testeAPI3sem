@@ -3,10 +3,10 @@ Projeto API do 3º Semestre da turma de Banco de Dados FATEC
 
 ![](https://user-images.githubusercontent.com/18652465/111547833-88631a00-8758-11eb-863c-ccf1e6e93f39.png)
 
-## Problema:
+### Problema:
 Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limitações no método vigente. Essas quatro limitações são: o codelist está armazenado e é operado manualmente em planilhas com extensão do tipo .xlsx. Ademais, extrair a composição estabelecida de um traço no documento é complexa e não existem mecanismos que validem ou integrem-os. 
 
-## Objetivo:
+### Objetivo:
  O Trace Finder tem como objetivo ser uma aplicação que permite manter, customizar e versionar partes de documentos que são armazenados em arquivos PDF, a partir disso, utilizando regras específicas, é possível gerar documentos finais que integrem as partes selecionadas.
 
 ### Integrantes:
@@ -49,7 +49,7 @@ Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limit
               </tbody>
        </table>
        
- ## Screenshots:     
+ ### Screenshots:     
 
  
 
