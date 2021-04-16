@@ -46,6 +46,7 @@ Após a entrega da Sprint passada, focamos mais na comunicação com o cliente p
 - [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 
 ### Screenshoots:
+#### Banco de Dados:
  Atendendo as necessidades da reformulação do projeto, nosso banco de dados foi atualizado seguindo o seguinte modelo:
 <img src=https://user-images.githubusercontent.com/18652465/115090209-a86a3280-9eea-11eb-9f20-b9238a84cced.jpeg border=1 />
 
