@@ -3,21 +3,27 @@ Projeto API do 3º Semestre da turma de Banco de Dados FATEC
 
 ![](https://user-images.githubusercontent.com/18652465/111547833-88631a00-8758-11eb-863c-ccf1e6e93f39.png)
 
-## Integrantes:
+### Integrantes:
 
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigo-am%C3%A2ncio-do-prado-ten%C3%B3rio-a56641174) Rodrigo Amancio - Scrum Master
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/luisaugustosb) Luís Augusto - Product Owner
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bahij-noureddine-941b681b7/) Bahij Noureddine
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mateus-senne-172905149) Mateus de Senne
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/maxx-barcelos-aaa106b2) Maximiles Barcelos
- 
- ## Objetivo:
+<a  href="https://www.linkedin.com/in/rodrigo-am%C3%A2ncio-do-prado-ten%C3%B3rio-a56641174"> <img src="https://img.shields.io/badge/Rodrigo%20Amancio%20--%20Scrum%20Master-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/luisaugustosb"> <img src="https://img.shields.io/badge/Lu%C3%ADs%20Augusto%20--%20Product%20Owner-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/bahij-noureddine-941b681b7/"> <img src= "https://img.shields.io/badge/Bahij%20Noureddine-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/mateus-senne-172905149"> <img src= "https://img.shields.io/badge/Mateus%20Senne-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2"> <img src= "https://img.shields.io/badge/Maximiles%20Barcelos-Linkedin-blue"></a> <br>
+
+## Empresa:
+
+## Problema:
+...
+## Objetivo:
  O Trace Finder tem como objetivo ser uma aplicação que permite manter, customizar e versionar partes de documentos que são armazenados em arquivos PDF, a partir disso, utilizando regras específicas, é possível gerar documentos finais que integrem as partes selecionadas.
  
  
- - [👨‍💻 Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
- - [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
- - [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
+## User Story Cards:
+
+## Wireframes:
+
+## Documentação:
  
 <h2>Sprints</h2>
        <table>
