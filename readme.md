@@ -29,12 +29,12 @@ Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limit
                             <td align=center>Sprint 1<br>08/03/2021 a 28/03/2021</td>
                             <td >Apresentação inicial dos Wireframes e Story Cards para aprovação do cliente.</br>✔️Criação tela de login.</br>
                             ✔️Apresentação de Wireframes e Story Cards.</td>
-                            <td><p><a href="https://github.com/MaXximiles/API-3SEM/tree/sprint-1">Ver mais</a></p></td>
+                            <td><p><a href="https://github.com/BahijNoureddine/testeAPI3sem/blob/sprint-1/readme.md">Ver mais</a></p></td>
                      </tr>
                      <tr>
                             <td align=center>Sprint 2<br>29/09/2021 a 18/04/2021</td>
                             <td>Descrição Sprint2</td>
-                            <td><p>Ver mais</p></td>
+                            <td><p><a href="https://github.com/BahijNoureddine/testeAPI3sem/blob/sprint-2/readme.md">Ver mais</a></p></td>
                      </tr>
                      <tr>
                             <td align=center>Sprint 3<br>26/04/2021 a 17/05/2021</td>
