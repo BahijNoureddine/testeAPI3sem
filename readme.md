@@ -12,23 +12,42 @@ Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limit
 
 <h1> </h1>
 
+### Sprint 1
+Nesta 1ª entrega nosso projeto tráz uma estrutura de controle de diretórios em cascata para o controle dos manuais. A idéia é um controle de pastas, seguindo uma idéia de explorador de arquivos, possibilitando, criação, alteração e exclusão de diretórios, pensando na estrutura do Mockup enviado pelo cliente. Através desta vizualização facilitada da estrutura do Manual, ficará mais facil realizar as importações dos arquivos .pdf(blocos).
+
+- [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
+- [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
+- [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
+### Screenshoots:
+
+
+#### Tela de Login:
+Responsável por gerenciar os acessos ao programa, onde será possível recuperar a senha.
+
+![](https://user-images.githubusercontent.com/68132461/114922109-b001dc80-9e01-11eb-9105-130a95335747.png)
+<h1> </h1>
+
+
+<h1> </h1>
+
+
+
+
 ### Sprint 2
 Após a entrega da Sprint passada, focamos mais na comunicação com o cliente para um melhor entendimento do problema, através disso foi necessário uma reformulação da idéia inicial.<br>
   Conforme descrito pelo cliente há á necessidade de poder gerenciar o codelist(tabela que traz informações e regras sobre a estrutura do manual), podendo inserir novas linhas, alterar e exclui-las, possibilitando assim mais controle ao usuario.<br>
   Foi adicionado o CRUD de documentos que possibilita ao usuario inserir, pesquisar, editar e deletar manuais. <br>
   Inserimos a opção de controle de traços onde o usuario poderá inserir tantos traços quanto forem necessários e a possibilidade de vincula-los aos documentos.<br>
   A vinculação de traços tambem se aplica aos blocos dos manuais, porem, segue outra regra, somente serão atribuidos aos blocos traços que pertencem ao documento, sendo esta atribuição realizada no codelist.<br>
-  Atendendo as necessidades da reformulação do projeto, nosso banco de dados foi atualizado seguindo o seguinte modelo:
   
-  <img src=https://user-images.githubusercontent.com/18652465/115090209-a86a3280-9eea-11eb-9f20-b9238a84cced.jpeg border=1 />
  
 - [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
 - [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
 - [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 
-
-
-
+### Screenshoots:
+ Atendendo as necessidades da reformulação do projeto, nosso banco de dados foi atualizado seguindo o seguinte modelo:
+<img src=https://user-images.githubusercontent.com/18652465/115090209-a86a3280-9eea-11eb-9f20-b9238a84cced.jpeg border=1 />
 
 
 
