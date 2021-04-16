@@ -11,51 +11,49 @@ Projeto API do 3º Semestre da turma de Banco de Dados FATEC
 <a href="https://www.linkedin.com/in/mateus-senne-172905149"> <img src= "https://img.shields.io/badge/Mateus%20Senne-Linkedin-blue"></a> <br>
 <a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2"> <img src= "https://img.shields.io/badge/Maximiles%20Barcelos-Linkedin-blue"></a> <br>
 
-## Empresa:
-
 ## Problema:
-...
+Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limitações no método vigente. Essas quatro limitações são: o codelist está armazenado e é operado manualmente em planilhas com extensão do tipo .xlsx. Ademais, extrair a composição estabelecida de um traço no documento é complexa e não existem mecanismos que validem ou integrem-os. 
+
 ## Objetivo:
  O Trace Finder tem como objetivo ser uma aplicação que permite manter, customizar e versionar partes de documentos que são armazenados em arquivos PDF, a partir disso, utilizando regras específicas, é possível gerar documentos finais que integrem as partes selecionadas.
  
  
 ## User Story Cards:
+(https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
 
 ## Wireframes:
+(https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
 
 ## Documentação:
+(https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
  
 <h2>Sprints</h2>
-       <table>
+              <table>
               <thead>
-                     <th width=100px>Entregas</th>
-                     <th>Descrições</th>
-                     <th width=215px>Datas</th>
+                     <th width=150px>Entregas</th>
+                     <th width=100%>Descrições</th>
                      <th width=100px>Links</th>
               </thead>
               <tbody>
                      <tr>
-                            <td>Sprint 1</td>
-                            <td>Descrição Sprint1 </td>
-                            <td>08/03/2021 a 28/03/2021</td>
-                            <td><p><a href="https://github.com/BahijNoureddine/testeAPI3sem/blob/sprint-1/readme.md">Visualizar</a></p></td>
+                            <td align=center>Sprint 1<br>08/03/2021 a 28/03/2021</td>
+                            <td >Apresentação inicial dos Wireframes e Story Cards para aprovação do cliente.</br>✔️Criação tela de login.</br>
+                            ✔️Apresentação de Wireframes e Story Cards.</td>
+                            <td><p><a href="https://github.com/MaXximiles/API-3SEM/tree/sprint-1">Ver mais</a></p></td>
                      </tr>
                      <tr>
-                            <td>Sprint 2</td>
+                            <td align=center>Sprint 2<br>29/09/2021 a 18/04/2021</td>
                             <td>Descrição Sprint2</td>
-                            <td>29/09/2021 a 18/04/2021</td>
-                            <td><p><a href="https://github.com/BahijNoureddine/testeAPI3sem/blob/sprint-2/readme.md">Visualizar</a></p></td>
+                            <td><p>Ver mais</p></td>
                      </tr>
                      <tr>
-                            <td>Sprint 3</td>
+                            <td align=center>Sprint 3<br>26/04/2021 a 17/05/2021</td>
                             <td>Descrição Sprint3</td>
-                            <td>26/04/2021 a 17/05/2021</td>
                             <td><p>Em andamento</p></td>
                      </tr>
                       <tr>
-                            <td>Sprint 4</td>
+                            <td align=center>Sprint 4<br>17/05/2021 a 05/06/2021</td>
                             <td>Descrição Sprint4</td>
-                            <td>17/05/2021 a 05/06/2021</td>
                             <td><p>Em andamento</p></td>
                      </tr>
               </tbody>
