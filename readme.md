@@ -26,7 +26,7 @@ Nesta 1ª entrega nosso projeto tráz uma estrutura de controle de diretórios e
 
 ### Screenshoots:
 
-### Tela de Login:
+#### Tela de Login:
 Responsável por gerenciar os acessos ao programa, onde será possível recuperar a senha.
 
 ![](https://user-images.githubusercontent.com/68132461/114922109-b001dc80-9e01-11eb-9105-130a95335747.png)
