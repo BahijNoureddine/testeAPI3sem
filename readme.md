@@ -18,15 +18,15 @@ Após a entrega da Sprint passada, focamos mais na comunicação com o cliente p
   Foi adicionado o CRUD de documentos que possibilita ao usuario inserir, pesquisar, editar e deletar manuais. <br>
   Inserimos a opção de controle de traços onde o usuario poderá inserir tantos traços quanto forem necessários e a possibilidade de vincula-los aos documentos.<br>
   A vinculação de traços tambem se aplica aos blocos dos manuais, porem, segue outra regra, somente serão atribuidos aos blocos traços que pertencem ao documento, sendo esta atribuição realizada no codelist.<br>
-  Atendendo as necessidades da reformulação do projeto, nosso banco de dados foi atualizado seguindo o seguinte modelo:
-  
-  <img src=https://user-images.githubusercontent.com/18652465/115090209-a86a3280-9eea-11eb-9f20-b9238a84cced.jpeg border=1 />
  
 - [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
 - [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
 - [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 
-
+### Screenshoots:
+#### Banco de Dados:
+Atendendo as necessidades da reformulação do projeto, nosso banco de dados foi atualizado seguindo o seguinte modelo:
+ <img src=https://user-images.githubusercontent.com/18652465/115090209-a86a3280-9eea-11eb-9f20-b9238a84cced.jpeg border=1 />
 
 
 
